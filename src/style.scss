@@ -1,0 +1,12 @@
+$fontColor: red;
+$fontSize: 52px;
+
+.title {
+  color: $fontColor;
+  font-size: $fontSize;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  font-weight: normal;
+  margin-top: 300px;
+}
